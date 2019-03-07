@@ -1,4 +1,4 @@
-# Conversion of pain text to cipher text using Playfair Cipher
+# Conversion of pain text to cipher text using Playfair Cipher done
 
 plain_text=input("Enter the Plain Text:")
 playfair_matrix=[['M','O','N','A','R'],['C','H','Y','B','D'],['E','F','G','I','K'],['L','P','Q','S','T'],['U','V','W','X','Z']]
